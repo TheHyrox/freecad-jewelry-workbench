@@ -24,10 +24,11 @@ version = { attr = "freecad.lapidary.version.__version__" }
 [tool.setuptools.packages.find]
 # freecad/ is a namespace-package portion shared with FreeCAD itself: it must
 # contain no __init__.py of its own.
-include = ["freecad.lapidary*"]
+include = ["freecad.lapidary*", "freecad.jewelry*"]
 
 [tool.setuptools.package-data]
 "freecad.lapidary" = ["resources/icons/*.svg"]
+"freecad.jewelry" = ["resources/icons/*.svg"]
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]

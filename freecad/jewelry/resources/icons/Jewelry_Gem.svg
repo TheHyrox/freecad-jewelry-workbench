@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Faceted Gem Shape -->
+  <polygon points="20,16 44,16 54,28 32,54 10,28" fill="#3498DB" stroke="#1B4F72" stroke-width="2" />
+  <!-- Table Facet -->
+  <polygon points="24,16 40,16 46,24 18,24" fill="#AED6F1" stroke="#2980B9" stroke-width="1" />
+  <!-- Star & Kite Facets -->
+  <polygon points="20,16 24,16 18,24 10,28" fill="#5DADE2" />
+  <polygon points="40,16 44,16 54,28 46,24" fill="#2E86C1" />
+  <!-- Pavilion Facets -->
+  <polygon points="18,24 46,24 32,54" fill="#2874A6" />
+  <polygon points="10,28 18,24 32,54" fill="#1F618D" />
+  <polygon points="46,24 54,28 32,54" fill="#154360" />
+</svg>

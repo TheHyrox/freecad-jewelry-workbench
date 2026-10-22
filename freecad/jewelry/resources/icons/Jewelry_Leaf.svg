@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Sculpted Botanical Leaf (Green / Gold Leaf) -->
+  <path d="M 12 52 C 14 36 28 14 52 12 C 48 36 30 50 12 52 Z" fill="#27AE60" stroke="#196F3D" stroke-width="2" />
+  <!-- Central Vein / Rib Crease -->
+  <path d="M 12 52 Q 28 36 52 12" fill="none" stroke="#F1C40F" stroke-width="2.5" stroke-linecap="round" />
+  <!-- Side Veins -->
+  <path d="M 22 42 Q 28 44 32 46" fill="none" stroke="#52BE80" stroke-width="1.5" />
+  <path d="M 30 32 Q 38 34 42 36" fill="none" stroke="#52BE80" stroke-width="1.5" />
+  <path d="M 38 22 Q 44 24 48 24" fill="none" stroke="#52BE80" stroke-width="1.5" />
+</svg>

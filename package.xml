@@ -29,6 +29,18 @@
 
   <content>
     <workbench>
+      <classname>JewelryWorkbench</classname>
+      <subdirectory>./</subdirectory>
+      <freecadmin>1.1.0</freecadmin>
+      <tag>jewelry</tag>
+      <tag>ring</tag>
+      <tag>prongs</tag>
+      <tag>settings</tag>
+      <tag>gemstone</tag>
+      <tag>botanical</tag>
+      <tag>goldsmith</tag>
+    </workbench>
+    <workbench>
       <classname>LapidaryWorkbench</classname>
       <subdirectory>./</subdirectory>
       <freecadmin>1.1.0</freecadmin>

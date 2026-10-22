@@ -1,3 +1,43 @@
+# FreeCAD Jewelry Workbench
+
+An advanced, parametric jewelry modeling workbench for **FreeCAD 1.1+**.
+
+Includes native jewelry design tools (ring shanks, gemstone settings, corner prongs, V-prongs, bearing seat cutters, sculpted organic foliate elements, precious metal casting weight and carat calculators) and full integration with the **Lapidary** faceting engine.
+
+---
+
+## Key Features
+
+### 1. Parametric Ring Shank Generator (`Jewelry_Shank`)
+- **Standard Sizing**: US (sizes 3–14 in quarter sizes), EU / ISO (circumference in mm), UK/AU (A–Z+), and custom inner diameter.
+- **Profiles**: Comfort Fit (flat inner with softened edges, domed outer crown), Half-Round (D-shape), Round Wire, and Flat band.
+- **Ergonomic Taper**: Independent bottom vs. shoulder width and thickness for elegant, tapered shanks.
+- **Head Setting**: Toggle closed ring band or leave a top opening for setting gemstone collets and cluster heads.
+
+### 2. Parametric Gemstone Library (`Jewelry_Gem`)
+- Instant parametric gemstones: **Round Brilliant**, **Oval Mixed Cut**, **Marquise (Navette)**, **Rounded Pear**, **Sharp Pear** (water droplet), **Trillion**, **Heart**, **Octagon**, **Emerald**, and **Cushion**.
+- **FlatBack option**: toggleable flat underside (cabochon / rose-cut style without pavilion, perfect for flush bezels and flat settings).
+- Automatic B-Rep volume calculation and **Carat (ct) weight tally** based on specific gravity (Diamond, Topaz, Sapphire, Ruby, Emerald, Quartz, Opal, etc.).
+- Real-time colored viewport rendering matching selected mineral species.
+
+### 3. Settings, Prongs & Claws (`Jewelry_Prongs`, `Jewelry_VProng`)
+- **Prong Collet**: 4-prong and radial prongs with corner positioning for oval/cushion stones. Seamlessly connected button, claw, and straight styles with an under-gallery base rail. Dimensions automatically gray out when targeting a gemstone.
+- **V-Prong (Chevron)**: Protective V-caps specifically designed to clasp and protect fragile pointed tips on Marquise and Pear gemstones.
+- **Bearing Seat Cutters (`Jewelry_Cutter`)**: Automated negative cutting tools that carve exact stone bearing notches, pavilion clearance, and culet piercing holes into prongs for 3D printing and casting.
+
+### 4. Sculpted Botanical Foliate Elements (`Jewelry_Leaf`)
+- Parametric dimensional organic leaves with natural spine arch curvature, central vein crease rib, upward-cupping margins, and axial twist.
+- Configurable **Form Type** (`Pear`, `Elliptical`) and toggleable **FlatBack** option (carves the crease into the top face while leaving the back flat so the leaf sits flush on ring shanks and bezels).
+- Watertight B-Rep solids that fuse seamlessly with shanks and collet galleries.
+
+### 5. Metal Casting Weight & Carat BOM Calculator (`Jewelry_BOM`)
+- Instant Bill of Materials (BOM) readout:
+  - Total metal volume in $\text{mm}^3$
+  - Casting weights for **14k Yellow/White/Rose Gold**, **18k Yellow/White/Rose Gold**, **Platinum 950**, and **Sterling Silver 925**.
+  - Total gemstone carat weight (CTW) with stone dimensions.
+
+---
+
 # Lapidary — a faceting workbench for FreeCAD
 
 

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Ring Band -->
+  <circle cx="32" cy="38" r="18" fill="none" stroke="#F39C12" stroke-width="4" />
+  <!-- Center Oval Topaz -->
+  <ellipse cx="32" cy="20" rx="9" ry="6" fill="#3498DB" stroke="#1B4F72" stroke-width="1.5" />
+  <!-- Corner Button Prongs -->
+  <circle cx="25" cy="15" r="1.5" fill="#F5B041" />
+  <circle cx="39" cy="15" r="1.5" fill="#F5B041" />
+  <circle cx="25" cy="25" r="1.5" fill="#F5B041" />
+  <circle cx="39" cy="25" r="1.5" fill="#F5B041" />
+  <!-- Left Marquise Diamond -->
+  <path d="M 18 20 Q 23 16 23 20 Q 23 24 18 20 Z" fill="#AED6F1" stroke="#2980B9" stroke-width="1" />
+  <!-- Foliate Leaf -->
+  <path d="M 16 26 C 18 22 22 20 22 26 C 20 28 18 28 16 26 Z" fill="#2ECC71" stroke="#27AE60" stroke-width="1" />
+  <!-- Magic sparkles / stars for wizard -->
+  <polygon points="48,8 50,12 54,14 50,16 48,20 46,16 42,14 46,12" fill="#F1C40F" />
+  <polygon points="12,10 13,12 15,13 13,14 12,16 11,14 9,13 11,12" fill="#F39C12" />
+</svg>

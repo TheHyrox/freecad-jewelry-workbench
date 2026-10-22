@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Clipboard / Document -->
+  <rect x="14" y="10" width="36" height="46" rx="4" fill="#F8F9F9" stroke="#7F8C8D" stroke-width="2" />
+  <rect x="22" y="6" width="20" height="8" rx="2" fill="#BDC3C7" stroke="#7F8C8D" stroke-width="1.5" />
+  <!-- Gold Ingot Icon -->
+  <polygon points="20,24 30,22 40,24 38,28 22,28" fill="#F1C40F" stroke="#B7950B" stroke-width="1" />
+  <!-- Gemstone Icon -->
+  <polygon points="22,38 30,34 38,38 30,46" fill="#3498DB" stroke="#1F618D" stroke-width="1" />
+  <!-- Calculator check / lines -->
+  <line x1="22" y1="50" x2="42" y2="50" stroke="#27AE60" stroke-width="2" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- Collet base rail -->
+  <ellipse cx="32" cy="46" rx="20" ry="8" fill="none" stroke="#D35400" stroke-width="3" />
+  <ellipse cx="32" cy="46" rx="20" ry="8" fill="none" stroke="#F5B041" stroke-width="2" />
+  <!-- Gemstone phantom outline -->
+  <polygon points="22,24 42,24 50,32 32,48 14,32" fill="#EBF5FB" stroke="#AED6F1" stroke-width="1" stroke-dasharray="2,2" opacity="0.6" />
+  <!-- 4 Corner Prongs with Button Tips -->
+  <line x1="16" y1="46" x2="14" y2="22" stroke="#F39C12" stroke-width="4" stroke-linecap="round" />
+  <line x1="48" y1="46" x2="50" y2="22" stroke="#F39C12" stroke-width="4" stroke-linecap="round" />
+  <line x1="24" y1="48" x2="22" y2="25" stroke="#F5B041" stroke-width="4" stroke-linecap="round" />
+  <line x1="40" y1="48" x2="42" y2="25" stroke="#F5B041" stroke-width="4" stroke-linecap="round" />
+  <!-- Dome caps -->
+  <circle cx="14" cy="22" r="3" fill="#FAD7A0" stroke="#D35400" stroke-width="1" />
+  <circle cx="50" cy="22" r="3" fill="#FAD7A0" stroke="#D35400" stroke-width="1" />
+</svg>
